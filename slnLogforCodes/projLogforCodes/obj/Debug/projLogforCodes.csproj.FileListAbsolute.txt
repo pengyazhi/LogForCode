@@ -1,0 +1,11 @@
+C:\LogForCodes\slnLogforCodes\projLogforCodes\bin\Debug\projLogforCodes.exe.config
+C:\LogForCodes\slnLogforCodes\projLogforCodes\bin\Debug\projLogforCodes.exe
+C:\LogForCodes\slnLogforCodes\projLogforCodes\bin\Debug\projLogforCodes.pdb
+C:\LogForCodes\slnLogforCodes\projLogforCodes\obj\Debug\projLogforCodes.csproj.AssemblyReference.cache
+C:\LogForCodes\slnLogforCodes\projLogforCodes\obj\Debug\projLogforCodes.csproj.SuggestedBindingRedirects.cache
+C:\LogForCodes\slnLogforCodes\projLogforCodes\obj\Debug\projLogforCodes.Form1.resources
+C:\LogForCodes\slnLogforCodes\projLogforCodes\obj\Debug\projLogforCodes.Properties.Resources.resources
+C:\LogForCodes\slnLogforCodes\projLogforCodes\obj\Debug\projLogforCodes.csproj.GenerateResource.cache
+C:\LogForCodes\slnLogforCodes\projLogforCodes\obj\Debug\projLogforCodes.csproj.CoreCompileInputs.cache
+C:\LogForCodes\slnLogforCodes\projLogforCodes\obj\Debug\projLogforCodes.exe
+C:\LogForCodes\slnLogforCodes\projLogforCodes\obj\Debug\projLogforCodes.pdb
